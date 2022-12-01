@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nerko One', cursive;
+   
+}
+body{
+    background-color: #ffb2c1;
+}
+
+header{
+    background-color: #ce7095;
+    padding: 20px ;
+    text-align: center;
+    color: rgb(199, 218, 218);
+}
+
+main{
+    padding: 20px;
+    
+}
+
+.motivacion{
+    text-align: center;
+    font-size: 30px; 
+    color: rgba(17, 2, 91, 0.541);
+}
